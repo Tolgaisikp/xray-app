@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "184646174408",
+    "project_id": "fir-xray-17e59",
+    "storage_bucket": "fir-xray-17e59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184646174408:android:2469657e2d10f5a23787fd",
+        "android_client_info": {
+          "package_name": "com.example.xray_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184646174408-8uvp1bqukh3d228clnu2g0iuijs9tdls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xray_app",
+            "certificate_hash": "4a53e4a8f1de179a03cdc7da5898547958a4a646"
+          }
+        },
+        {
+          "client_id": "184646174408-llm6t6sau2do4j0f5re4pj7vk7qatf60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEP7zu3srOXWqtxM6xWJMsQFAQuPMnVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184646174408-llm6t6sau2do4j0f5re4pj7vk7qatf60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
